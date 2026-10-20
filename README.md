@@ -8,8 +8,9 @@ I put hardware and software skills to work on communication, network and electro
 
 ## Interests
 
-- Radar signal processing and AI applied to signals
+- Network administration: **configuration, security and monitoring of IP networks**.
 - Embedded systems and digital electronics
+- Radar signal processing and AI applied to signals
 - Electronics and telecommunications applied to **smart agriculture, urban planning and transport**.
 
 ## Selected work
