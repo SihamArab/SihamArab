@@ -4,13 +4,13 @@ Hi there! I'm **Siham Arab**, an electronics, networks and telecommunications en
 
 I'm **open to work and available immediately**, for a full-time position as an **electronics, networks or telecommunications engineer**, anywhere in France.
 
-I want to put my hardware and software skills to work on communication, network and electronic systems: design, configuration, testing, diagnosis and optimisation. My aim is to join a professional team, contribute to its projects and take on a wider scope over time.
+I put hardware and software skills to work on communication, network and electronic systems: design, configuration, testing, diagnosis and optimisation.
 
 ## Interests
 
 - Radar signal processing and AI applied to signals
 - Embedded systems and digital electronics
-- Electronics and telecommunications applied to **smart agriculture, urban planning and transport**, and to their human side
+- Electronics and telecommunications applied to **smart agriculture, urban planning and transport**.
 
 ## Selected work
 
